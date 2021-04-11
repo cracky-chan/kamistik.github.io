@@ -3,6 +3,7 @@ https://kamistik.com/404
 https://kamistik.com/sitemap.txt
 https://kamistik.com/robots.txt
 https://kamistik.com/her2a.jpg
+https://kamistik.com/her2a.webp
 https://kamistik.com/pasta2a.txt
 https://kamistik.com/hello.txt
 https://wish.kamistik.com/
@@ -10,4 +11,5 @@ https://wish.kamistik.com/404
 https://wish.kamistik.com/sitemap.txt
 https://wish.kamistik.com/robots.txt
 https://wish.kamistik.com/her2b.jpg
+https://wish.kamistik.com/her2b.webp
 https://wish.kamistik.com/pasta2b.txt
