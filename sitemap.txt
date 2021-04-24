@@ -4,6 +4,8 @@ https://kamistik.com/sitemap.txt
 https://kamistik.com/robots.txt
 https://kamistik.com/her2a.jpg
 https://kamistik.com/her2a.webp
+https://kamistik.com/old-her2a.jpg
+https://kamistik.com/old-her2a.webp
 https://kamistik.com/pasta2a.txt
 https://kamistik.com/hello.txt
 https://wish.kamistik.com/
