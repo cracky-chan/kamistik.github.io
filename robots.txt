@@ -1,4 +1,4 @@
-Sitemap: https://kamistik.com/sitemap.txt
+﻿Sitemap: https://kamistik.com/sitemap.txt
 Sitemap: https://wish.kamistik.com/sitemap.txt
 
 #perpetuate the great circlejerk of drama
