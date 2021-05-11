@@ -5,6 +5,7 @@ https://kamistik.com/old-her2a.webp
 https://kamistik.com/pasta2a.txt
 https://kamistik.com/robots.txt
 https://kamistik.com/sitemap.txt
+https://kamistik.com/testgallery/
 https://wish.kamistik.com/
 https://wish.kamistik.com/404
 https://wish.kamistik.com/irc-log-clips.txt
