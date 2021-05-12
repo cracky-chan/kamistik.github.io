@@ -12,3 +12,4 @@ https://wish.kamistik.com/irc-log-clips.txt
 https://wish.kamistik.com/pasta2b.txt
 https://wish.kamistik.com/robots.txt
 https://wish.kamistik.com/sitemap.txt
+https://wish.kamistik.com/testgallery/
