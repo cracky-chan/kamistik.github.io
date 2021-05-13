@@ -14,3 +14,6 @@ https://wish.kamistik.com/robots.txt
 https://wish.kamistik.com/sitemap.txt
 https://wish.kamistik.com/testgallery/
 https://photobuckets.kamistik.com/
+https://photobuckets.kamistik.com/cgi-bin/classic.rb
+https://photobuckets.kamistik.com/robots.txt
+https://photobuckets.kamistik.com/sitemap.xml
