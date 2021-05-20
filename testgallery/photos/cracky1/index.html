@@ -1,9 +1,10 @@
 ﻿<!DOCTYPE html>
-<html>
+<html lang="en-GB">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="origin-when-cross-origin" />
     <link rel="stylesheet" href="/testgallery/css/bootstrap.min.css">
     <link rel="stylesheet" href="/testgallery/css/main.css">
     <link rel="stylesheet" href="/testgallery/css/lightbox.css">
@@ -21,6 +22,17 @@
     <meta name="twitter:card" content="summary" />
     <meta property="twitter:title" content="Photos: Cracky1" />
     <!-- End Jekyll SEO tag -->
+    <style>
+      .image-gallery {overflow: auto; margin-left: -1%!important;}
+      .image-gallery a {color: silver!important; float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+      .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+      .image-gallery a img {width: 100%; display: block;}
+      .image-gallery-index a:hover,
+      .image-gallery a:hover {color: #777!important;}
+      .image-gallery a img{filter: grayscale(100%) brightness(116%) contrast(83%) opacity(70%);}
+      .image-gallery-index a:hover img,
+      .image-gallery a:hover img{filter: grayscale(0%) brightness(100%) contrast(100%) opacity(100%);}
+    </style>
   </head>
   <body>
     <main class="wrapper">
@@ -36,21 +48,10 @@
           <header class="post-header">
             <h1 class="post-title">Photos: Cracky1</h1>
           </header>
-          <article class="post-content">
+          <div class="post-content">
             <script src="/testgallery/js/jquery.min.js"></script>
             <script src="/testgallery/js/swipe-it.min.js"></script>
             <script src="/testgallery/js/lightbox.js"></script>
-            <style>
-              .image-gallery {overflow: auto; margin-left: -1%!important;}
-              .image-gallery a {color: silver!important; float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
-              .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-              .image-gallery a img {width: 100%; display: block;}
-              .image-gallery-index a:hover,
-              .image-gallery a:hover {color: #777!important;}
-              .image-gallery a img{filter: grayscale(100%) brightness(116%) contrast(83%) opacity(70%);}
-              .image-gallery-index a:hover img,
-              .image-gallery a:hover img{filter: grayscale(0%) brightness(100%) contrast(100%) opacity(100%);}
-            </style>
             <p class="image-gallery">
               <a href="d01.jpg" title="d01.jpg">
               <img src="thumbs/d01.jpg" alt="d01.jpg" title="d01.jpg" />
@@ -109,7 +110,7 @@
               <span></span>
               </a>
             </p>
-          </article>
+          </div>
         </div>
       </div>
     </main>
