@@ -584,8 +584,9 @@ img {
 
 .nav-item {
   display: inline-block;
-  background-color: #000000;
-  padding: 0.5rem; }
+  background-color: rgba(20,20,20,0.7);
+  padding-left: 10px;
+  padding-right: 10px  }
 
 .post-nav {
   text-align: center;
