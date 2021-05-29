@@ -620,7 +620,7 @@ img {
  */
 .preview-panel {
   padding: 1rem;
-  background-color: #000000;
+  background-color: rgba(20,20,20,0.8);
   box-sizing: border-box;
   border: 1px solid #fff; }
   .preview-panel:hover {
