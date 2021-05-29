@@ -586,7 +586,8 @@ img {
   display: inline-block;
   background-color: rgba(20,20,20,0.8);
   padding-left: 10px;
-  padding-right: 10px  }
+  padding-right: 10px;
+  margin-top: 3.5rem;  }
 
 .post-nav {
   text-align: center;
