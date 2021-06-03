@@ -1,6 +1,7 @@
 https://kamistik.com/
 https://kamistik.com/404
 https://kamistik.com/gallery2/
+https://kamistik.com/pasta2
 https://kamistik.com/pasta2.txt
 https://kamistik.com/robots.txt
 https://kamistik.com/sitemap.txt
